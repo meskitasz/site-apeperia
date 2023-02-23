@@ -1,2 +1,2 @@
-# site-apeperia
-Estudando flexbox e responsividade
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
